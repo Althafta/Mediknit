@@ -1,0 +1,6 @@
+framework module Pods_Mediknit {
+  umbrella header "Pods-Mediknit-umbrella.h"
+
+  export *
+  module * { export * }
+}
